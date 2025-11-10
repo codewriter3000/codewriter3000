@@ -11,7 +11,7 @@
 - 🏈 Love football
 - ♟️ Very bad at chess
 
-## 💻 Preferred Tech Stack
+## 💻 My Tech Stack
 
 ### Front-End
 - React
