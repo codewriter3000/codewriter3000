@@ -7,5 +7,18 @@
 
 ## 🚀 About Me
 
-- 🔒 Working on an admin portal application
 - ⛵ Love boating
+- 🏈 Love football
+- ♟️ Very bad at chess
+
+## 💻 Preferred Tech Stack
+
+### Front-End
+- React
+- Solid
+- Tauri (Desktop)
+
+### Back-End
+- Spring Boot
+- FastAPI
+- Django
