@@ -10,3 +10,4 @@ I'm a UI/UX connoisseur with a background in Java and love for decompiling legac
   - PPC Fork: https://github.com/codewriter3000/calynda-for-wii.git
 - **Interactive Osprey**. Inspired by Interactive Optimum's UI in the 2000s, you can now watch cable TV online with the old school look and feel: https://github.com/codewriter3000/interactive-osprey.git
 - **Monoscape**. A word processor that doesn't stalk you like how MS Word and Google Docs do, and isn't legacy like LibreOffice: https://github.com/codewriter3000/monoscape.git
+- **Network Graph Maker 9000**. I made this some time ago. It's more of a hierarchy chart maker than a network graph maker, but it looks pretty cool: https://github.com/codewriter3000/network-graph-maker-9000.git
