@@ -1,24 +1,12 @@
 # Alexander J. Micharski (codewriter3000)
 
-[![Website](https://img.shields.io/badge/Website-https://www.amicharski.com-blue)](https://www.amicharski.com)
-[![Email](https://img.shields.io/badge/Email-alex@amicharski.com-green)](mailto:alex@amicharski.com)
-
-**Full-Stack Engineer | UI/UX Developer & Designer**
-
-## 🚀 About Me
-
-- ⛵ Love boating
-- 🏈 Love football
-- ♟️ Very bad at chess
-
-## 💻 My Tech Stack
-
-### Front-End
-- React
-- Solid
-- Tauri (Desktop)
-
-### Back-End
-- Spring Boot
-- FastAPI
-- Django
+I'm a UI/UX connoisseur with a background in Java and love for decompiling legacy Nintendo games. Here are some of my projects:
+- **PPC Bench**. A debugging workbench for PPC Assembly (used by GameCube/Wii): https://github.com/codewriter3000/ppc-bench.git
+- **CW3 Admin Studio**. An admin portal where sysadmins can assign roles and permissions to users. Also works as an OAuth provider:
+  - Front-End: https://github.com/codewriter3000/cw3-admin-front-end.git
+  - Back-End: https://github.com/codewriter3000/cw3-admin-api.git
+- **Calynda**. A functional systems programming language that comes with an automatic garbage collector. It started as a vibecoding project but now it can compile code to run on a Wii and can run bare metal code on a SBC.
+  - Language: https://github.com/codewriter3000/calynda-lang.git
+  - PPC Fork: https://github.com/codewriter3000/calynda-for-wii.git
+- **Interactive Osprey**. Inspired by Interactive Optimum's UI in the 2000s, you can now watch cable TV online with the old school look and feel: https://github.com/codewriter3000/interactive-osprey.git
+- **Monoscape**. A word processor that doesn't stalk you like how MS Word and Google Docs do, and isn't legacy like LibreOffice: https://github.com/codewriter3000/monoscape.git
